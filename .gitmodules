@@ -1,0 +1,24 @@
+[submodule "extern/sync"]
+	path = extern/sync
+	url = http://github.com/Jacob-C-Smith/sync
+[submodule "extern/crypto"]
+	path = extern/crypto
+	url = http://github.com/Jacob-C-Smith/crypto
+[submodule "extern/dict"]
+	path = extern/dict
+	url = http://github.com/Jacob-C-Smith/dict
+[submodule "extern/array"]
+	path = extern/array
+	url = http://github.com/Jacob-C-Smith/array
+[submodule "extern/parallel"]
+	path = extern/parallel
+	url = http://github.com/Jacob-C-Smith/parallel
+[submodule "extern/json"]
+	path = extern/json
+	url = http://github.com/Jacob-C-Smith/json
+[submodule "extern/log"]
+	path = extern/log
+	url = http://github.com/Jacob-C-Smith/log
+[submodule "extern/queue"]
+	path = extern/queue
+	url = http://github.com/Jacob-C-Smith/queue
